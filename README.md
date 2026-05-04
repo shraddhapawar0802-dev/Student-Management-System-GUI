@@ -34,11 +34,12 @@ It allows users to manage student records with an interactive GUI and table-base
 ![Student GUI](images/StudentGUI.png)
 
 ### Add Student
-![Add Student](images/addStudentGUI.png)
+![Add Student](images/addedStudentGUI.png)
 
 ### Search Student
 ![Search Student](images/searchStudentGUI.png)
 
+[Student GUI]
 
 ---
 
