@@ -39,8 +39,6 @@ It allows users to manage student records with an interactive GUI and table-base
 ### Search Student
 ![Search Student](images/searchStudentGUI.png)
 
-[Student GUI]
-
 ---
 
 🛠️ Tech Stack
