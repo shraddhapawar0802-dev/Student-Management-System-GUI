@@ -28,7 +28,7 @@ It allows users to manage student records with an interactive GUI and table-base
 
 🖼️ Screenshots
 
-> Add your screenshots here after running the project
+
 
 ### Main UI
 ![Student GUI](screenshots/Student GUI.png)
