@@ -3,6 +3,9 @@
 A simple desktop-based Student Management System built using Java Swing and OOP concepts.
 It allows users to manage student records with an interactive GUI and table-based display.
 
+---
+## Live Demo
+https://shraddhapawar0802-dev.github.io/Student-Management-System-GUI/
 
 ---
 
